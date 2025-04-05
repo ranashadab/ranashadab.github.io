@@ -1,0 +1,1 @@
+import{Q as s}from"./QPage-D6ZXuiPE.js";import{z as t,A as o,H as a,I as n}from"./index-D_Ha4Za0.js";import"./render-CXTdqwyB.js";const l={__name:"IndexPage",setup(p){const r=n();return(c,e)=>(o(),t(s,{class:"flex flex-center",onClick:e[0]||(e[0]=()=>a(r).push({path:"/inspections/"}))}))}};export{l as default};
